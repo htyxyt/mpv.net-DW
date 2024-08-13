@@ -1,4 +1,3 @@
-# 个人自用mpv.net配置
 ## fork自[mpv.net-DW](https://github.com/diana7127/mpv.net-DW)
 修改了mpv.conf，添加注释，设置窗口边框和大小限制等。
 
